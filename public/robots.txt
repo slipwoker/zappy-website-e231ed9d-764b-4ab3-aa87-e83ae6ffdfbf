@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://micha-batito-mortgages-and-rea.zappy5.app/sitemap.xml
