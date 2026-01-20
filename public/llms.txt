@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# מיכה בטיטו-משכנתאות ונדל"ן בדרך הפשוטה — Generative Engine Optimization Map
+
+> A שירותים פיננסיים ונדל"ן business.
 
 ---
 
@@ -38,7 +40,17 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מיכה בטיטו-משכנתאות ונדל"ן בדרך הפשוטה
+מיכה בטיטו-משכנתאות ונדל"ן בדרך הפשוטה is a business in the שירותים פיננסיים ונדל"ן industry.
+
+## Target Audience
+- רוכשי דירה ראשונה
+- משקיעי נדל"ן
+- משפחות מתרחבות
+
+## Industry
+שירותים פיננסיים ונדל"ן
+
 ---
 
 # Additional Resources
