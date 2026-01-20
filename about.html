@@ -60,7 +60,16 @@
 
 .zappy-header .zappy-link:hover {
   opacity: 0.7;
-}</style>
+}
+
+/* Hide disabled social platforms */
+.footer-social a[aria-label="Twitter"],
+.footer-social a[aria-label="LinkedIn"],
+.footer-social a[aria-label="YouTube"],
+.footer-social a[aria-label="TikTok"] {
+  display: none;
+}
+</style>
     <!-- Cookie Consent -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
