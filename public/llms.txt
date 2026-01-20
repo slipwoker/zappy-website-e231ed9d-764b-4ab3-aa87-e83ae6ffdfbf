@@ -1,59 +1,47 @@
-# מיכה בטיטו — Generative Engine Optimization Map
-
-> A שירותים פיננסיים ונדל"ן business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-e231ed9d.zappy5.app
+https://example.com
 גלו יועץ משכנתאות לדירה ראשונה מומלץ שמספק פתרונות אמיתיים. צרו קשר עוד היום לייעוץ ללא עלות!
 
 ### שירותים
-https://-e231ed9d.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי ייעוץ המשכנתאות שלנו: השוואת משכנתאות בנקים בישראל, ליווי לרוכשי דירה ראשונה ועוד. התחילו היום!
 
 ### אודות
-https://-e231ed9d.zappy5.app/about
+https://example.com/about
 הכירו את מיכה בטיטו, יועץ משכנתאות מומלץ עם ניסיון רב בתחום הפיננסים והנדל"ן. למדו על הגישה המקצועית והאישית שלנו.
 
 ### צור קשר
-https://-e231ed9d.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם מיכה בטיטו, יועץ משכנתאות לדירה ראשונה מומלץ. קבעו פגישת ייעוץ ראשונית ללא עלות והתחילו את המסע לדירה החדשה!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e231ed9d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e231ed9d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e231ed9d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About מיכה בטיטו
-מיכה בטיטו is a business in the שירותים פיננסיים ונדל"ן industry.
-
-## Target Audience
-- רוכשי דירה ראשונה
-- משקיעי נדל"ן
-- משפחות מתרחבות
-
-## Industry
-שירותים פיננסיים ונדל"ן
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-e231ed9d.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-e231ed9d.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
