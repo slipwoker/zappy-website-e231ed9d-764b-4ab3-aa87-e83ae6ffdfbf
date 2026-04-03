@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# מיכה בטיטו-משכנתאות ונדל"ן בדרך הפשוטה — Generative Engine Optimization Map
+
+> A שירותים פיננסיים ונדל"ן business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://micha-batito-mortgages-and-rea.zappy5.app
 גלו יועץ משכנתאות לדירה ראשונה מומלץ שמספק פתרונות אמיתיים. צרו קשר עוד היום לייעוץ ללא עלות!
 
 ### שירותים
-https://example.com/services
+https://micha-batito-mortgages-and-rea.zappy5.app/services
 גלו את מגוון שירותי ייעוץ המשכנתאות שלנו: השוואת משכנתאות בנקים בישראל, ליווי לרוכשי דירה ראשונה ועוד. התחילו היום!
 
 ### אודות
-https://example.com/about
+https://micha-batito-mortgages-and-rea.zappy5.app/about
 הכירו את מיכה בטיטו, יועץ משכנתאות מומלץ עם ניסיון רב בתחום הפיננסים והנדל"ן. למדו על הגישה המקצועית והאישית שלנו.
 
 ### צור קשר
-https://example.com/contact
+https://micha-batito-mortgages-and-rea.zappy5.app/contact
 צרו קשר עם מיכה בטיטו, יועץ משכנתאות לדירה ראשונה מומלץ. קבעו פגישת ייעוץ ראשונית ללא עלות והתחילו את המסע לדירה החדשה!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://micha-batito-mortgages-and-rea.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://micha-batito-mortgages-and-rea.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://micha-batito-mortgages-and-rea.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מיכה בטיטו-משכנתאות ונדל"ן בדרך הפשוטה
+מיכה בטיטו-משכנתאות ונדל"ן בדרך הפשוטה is a business in the שירותים פיננסיים ונדל"ן industry.
+
+## Target Audience
+- רוכשי דירה ראשונה
+- משקיעי נדל"ן
+- משפחות מתרחבות
+
+## Industry
+שירותים פיננסיים ונדל"ן
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://micha-batito-mortgages-and-rea.zappy5.app/sitemap.xml
+- **Robots.txt**: https://micha-batito-mortgages-and-rea.zappy5.app/robots.txt
